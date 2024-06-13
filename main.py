@@ -11,7 +11,7 @@ import random
 ### --- VARS/CONSTANTS --- ###
 
 #create variables for var path, and each item
-var_path ="Day20-40/Day31_Project-Flash_Card_App/course_project" 
+var_path ="." 
 
 card_back = "/images/card_back.png"
 card_front = "/images/card_front.png"
