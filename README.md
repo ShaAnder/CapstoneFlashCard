@@ -5,7 +5,7 @@
 <h1  align="center">Flash Cards</h1>
 
 <p  align="center">
-<img src="https://github.com/ShaAnder/CapstoneFlashCard/assets/129494996/e6eff1da-4c41-4218-967e-2d929a16c6d7" alt="project image" height="100px">
+<img src="https://github.com/ShaAnder/CapstoneFlashCard/assets/129494996/e6eff1da-4c41-4218-967e-2d929a16c6d7" alt="project image" height="300px">
     
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
